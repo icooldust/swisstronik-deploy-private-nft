@@ -1,6 +1,6 @@
 # Swisstronik Tesnet Techinal Task 5 (Deploy Private NFT)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
+link : [Click!](https://github.com/icooldust/swisstronik-deploy-private-nft.git)
 
 Feel free donate to my EVM address
 
